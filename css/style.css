@@ -1,0 +1,43 @@
+.title-rong{
+    color:blue;
+    font-weight: 900px;
+    text-align: center;
+     font-family: cursive;
+     font-style: oblique;
+     background-image:linear-gradient(180deg, yellow,orange,red);
+     padding: 20px;
+     border-radius: 30px;
+
+
+text-decoration-color: chartreuse;
+}
+footer{
+    text-align: center;
+}
+.text-style{
+    text-align: justify;
+}
+.bg{
+
+    background-color:red;
+    height: 500px;
+}
+.imgs-saiz{
+    height: 700px;
+}
+.shadow{
+    padding: 40px;
+    border-radius: 40px;
+    box-shadow: 10px 10px 20px;
+}
+.first-pic{
+    height: 
+}
+.pad{
+    padding:0px 0px 40px 40px;
+    padding-right: 40px;
+    
+}
+.specee{
+    margin-bottom: 100px;
+}

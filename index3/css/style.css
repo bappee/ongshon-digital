@@ -1,0 +1,19 @@
+.title-rong{
+    color:blue;
+    font-weight: 900px;
+    text-align: center;
+     font-family: cursive;
+     font-style: oblique;
+     background-image:linear-gradient(180deg, yellow,orange,red);
+     padding: 20px;
+     border-radius: 30px;
+
+
+text-decoration-color: chartreuse;
+}
+footer{
+    text-align: center;
+}
+.text-style{
+    text-align: justify;
+}
